@@ -16,12 +16,7 @@ This project is an implementation of a machine learning model for recognizing ha
 4. [Model Architecture](#model-architecture)
 5. [Dataset](#dataset)
 6. [Training](#training)
-7. [Evaluation](#evaluation)
-8. [Results](#results)
-9. [Contributing](#contributing)
-10. [License](#license)
-11. [Acknowledgments](#acknowledgments)
-12. [Contact](#contact)
+7. [Results](#results)
 
 </details>
 
@@ -52,7 +47,7 @@ To use this project, follow these steps:
 
 ## Model Architecture
 
-The model features a input layer of 784 inputs, 2 hidden layers with 10 neurons each but can be varied by adjusting n1 and n2 in 'init_params()' function and one ouput layer with 10 nodes
+The model features an input layer of 784 inputs, 2 hidden layers with 10 neurons each but can be varied by adjusting n1 and n2 in 'init_params()' function and one ouput layer with 10 nodes
 
 ## Dataset
 
@@ -69,4 +64,4 @@ The results of the model, including visualizations, and insights, are available 
 
 ## Contact
 
-For questions or collaborations, you can contact me at [GitHub profile](link-to-github-profile).
+For questions or collaborations, you can contact me at [GitHub profile](https://github.com/itmaybehimm/).
